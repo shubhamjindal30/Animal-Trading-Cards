@@ -1,0 +1,36 @@
+#box {
+    width: 320px;
+    border: solid 1px lightgray;
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+img {
+    margin-left: 10px;
+    width: 300px;
+}
+
+#card {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: solid 1px lightgray;
+    width: 278px;
+}
+
+#fact {
+    font-style: italic;
+}
+
+ul {
+    padding: 0px;
+    list-style-type: none;
+}
+
+.label {
+    font-weight: bold;
+}
